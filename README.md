@@ -4,7 +4,7 @@
 A Unity prototype where you can grab, connect, and drive modular blocks (wheels, bodies, engines, propellers) to create wild vehicles.
 
 ---
-<img src="Images/bad_pigges.gif" width="600" />
+
 ---
 ## ✨ Highlights
 - 🧩 **Snap-to-fit building** – Parts connect via precise attach points.
@@ -16,7 +16,7 @@ A Unity prototype where you can grab, connect, and drive modular blocks (wheels,
 ---
 
 ## 🎮 Gameplay Preview
-_Add animated GIFs / screenshots here_
+<img src="Images/badpigges.gif" width="600" />
 - Building with cubes + wheels  
 - Test drive on terrain  
 - Helicopter module demo (lift + thrust)

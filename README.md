@@ -4,7 +4,7 @@
 A Unity prototype where you can grab, connect, and drive modular blocks (wheels, bodies, engines, propellers) to create wild vehicles.
 
 ---
-<img src="Images/collect.gif" width="600" />
+<img src="Images/bad_pigges.gif" width="600" />
 ---
 ## ✨ Highlights
 - 🧩 **Snap-to-fit building** – Parts connect via precise attach points.
